@@ -1,1 +1,1 @@
-"# Minesweeper-AI-bot" 
+# Minesweeper AI bot
